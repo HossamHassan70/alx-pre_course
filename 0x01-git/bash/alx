@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "ALX school is cool!"
->>>>>>>
-["ALX school"]
+=====
+echo "ALX school"
